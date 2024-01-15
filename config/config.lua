@@ -71,7 +71,7 @@ Config.Shops = {
     },
     mechanic2 = { -- Harmony Location
         managed = true,
-        shopLabel = 'LS Customs',
+        shopLabel = "Los Sato's Customs",
         showBlip = true,
         blipSprite = 72,
         blipColor = 46,
@@ -109,7 +109,7 @@ Config.Shops = {
     },
     mechanic3 = { -- Airport Location
         managed = true,
-        shopLabel = 'LS Customs',
+        shopLabel = 'Garage Burger',
         showBlip = true,
         blipSprite = 72,
         blipColor = 46,
